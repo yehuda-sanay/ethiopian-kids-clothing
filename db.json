@@ -1,0 +1,77 @@
+{
+    "girl":[
+        {   "id":"1",
+            "name":"dress",
+            "details":"red, blue & gold decorations",
+            "size":"",
+            "price":"235",
+            "pic":"https://www.thehabeshaweb.com/wp-content/uploads/2021/04/Cute-Off-Shoulder-Two-Piece-Ethiopian-Girls-Habesha-Dress.jpg"
+        },
+        {   "id":"2",
+            "name":"dress",
+            "details":"all color decorations",
+            "size":"",
+            "price":"465",
+            "pic":"https://i.pinimg.com/originals/0d/9f/41/0d9f4187d56175ce73a450c89afc88d8.jpg"
+        },
+        {   "id":"3",
+            "name":"dress",
+            "details":"purple decorations",
+            "size":"s",
+            "price":"256",
+            "pic":"https://www.thehabeshaweb.com/wp-content/uploads/2021/04/Ethiopian-Traditional-Kids-Dress1.jpg"
+        },
+        {   "id":"4",
+            "name":"dress",
+            "details":"red & grin decorations",
+            "size":"s",
+            "price":"426",
+            "pic":"https://www.thehabeshaweb.com/wp-content/uploads/2021/04/Ethiopian-Traditional-Kids-Dress.jpg"
+        },
+        {   "id":"5",
+            "name":"dress",
+            "details":"gold decorations",
+            "size":"s",
+            "price":"521",
+            "pic":"https://i.pinimg.com/originals/1e/b0/b2/1eb0b2ff6005b3c8a3f36d3045ae1bf7.jpg"
+        }
+        
+    ],
+    "boy":[
+        {   "id":"1",
+            "name":"suit",
+            "details":"blue decorations",
+            "size":"",
+            "price":"150",
+            "pic":"https://i0.wp.com/habeshakemise.com/wp-content/uploads/2019/06/blue-meskel-ethiopian-traditional-dress-kids-2.jpg?fit=644%2C1024&ssl=1"
+        },
+        {   "id":"2",
+            "name":"suit",
+            "details":"red & blue decorations",
+            "size":"m",
+            "price":"140",
+            "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2EPwzx0p9q4E6jjX8OZ4LQDQDfnXBl0h-S4KrvCwunZnh1HCCi9FMqv2HGAUqeCbJWg&usqp=CAU"
+        },
+        {   "id":"3",
+            "name":"suit",
+            "details":"red& gold decorations",
+            "size":"",
+            "price":"170",
+            "pic":"https://i.pinimg.com/474x/74/05/f5/7405f5267bec7490da1051184f28bf3e.jpg"
+        },
+        {   "id":"4",
+            "name":"suit",
+            "details":"brwon decorations",
+            "size":"",
+            "price":"200",
+            "pic":"https://res.cloudinary.com/fleetnation/image/private/c_fit,w_1120/g_south,l_text:style_gothic2:%C2%A9%20Eric%20Lafforgue,o_20,y_10/g_center,l_watermark4,o_25,y_50/v1517914540/bhr4fekn08iaifgl0fpo.jpg"
+        },
+        {   "id":"5",
+            "name":"suit",
+            "details":"red & gold decorations",
+            "size":"",
+            "price":"120",
+            "pic":"https://di2ponv0v5otw.cloudfront.net/posts/2021/08/08/61104b63941f17d2fafc15e8/m_61104beb43895f8a0d03a593.jpg"
+        }
+    ]
+}
